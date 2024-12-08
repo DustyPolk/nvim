@@ -1,0 +1,22 @@
+# Compiled Lua sources
+luac.out
+
+# Compiled plugins
+plugin/packer_compiled.lua
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Plugin directories
+/plugin/
+
+# LSP data
+.luarc.json
+
+# Cache directories
+.cache/ 
